@@ -1,2 +1,62 @@
-# DSA-in-Cpp
-My DSA learnings
+# 🚀 DSA LeetCode Journey in C++
+
+Hi there! 👋 This is my personal repository where I’m solving LeetCode problems in **C++** to strengthen my Data Structures and Algorithms (DSA) skills.
+
+## 🎯 Goal
+
+- Solve **500+ LeetCode problems**
+- Cover all major DSA topics
+- Write clean, efficient, and well-explained code
+- Be consistent and improve problem-solving skills
+
+---
+
+## 🗂️ Folder Structure
+
+Each folder is categorized by topic (e.g., Arrays, Strings, DP).
+Every problem includes:
+- `problem.cpp`: Code with comments
+- `problem.md`: Explanation (Intuition, Approach, Time/Space Complexity)
+
+---
+
+## 🔍 Topics Covered
+
+- ✅ Arrays
+- ✅ Strings
+- ⬜ Linked Lists
+- ⬜ Trees & Graphs
+- ⬜ Recursion & Backtracking
+- ⬜ Dynamic Programming
+- ⬜ Sliding Window, Two Pointers
+- ⬜ Greedy, Heaps, and more...
+
+---
+
+## 📊 Progress
+
+| Difficulty | Count |
+|------------|-------|
+| Easy       |  50+  |
+| Medium     |  80+  |
+| Hard       |  20+  |
+
+_Updated weekly_
+
+---
+
+## 🛠️ Tools & Language
+
+- Platform: [LeetCode](https://leetcode.com/)
+- Language: C++
+- Editor: VS Code
+
+---
+
+## 📅 Weekly Plan
+
+```markdown
+Week 1: Arrays & Strings  
+Week 2: Hash Maps, Sets  
+Week 3: Sliding Window, Two Pointers  
+...  
