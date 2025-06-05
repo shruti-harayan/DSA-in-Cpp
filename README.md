@@ -44,15 +44,15 @@ Every problem includes:
 📌 Notes
 -This repo is for learning and revision. Contributions welcome!
 
--Feel free to fork or clone for your own DSA practice.
+Feel free to fork or clone for your own DSA practice.
 
 ---
 
 🔗 Connect with Me
 ---
--Linked-In: shruti-harayan
+[Linked-In](https://www.linkedin.com/in/shruti-harayan/)
 
--LeetCode: shruti-harayan
+[LeetCode](https://leetcode.com/u/shruti_harayan/)
 
 ---
 ## 📅 Weekly Plan
