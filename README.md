@@ -35,16 +35,27 @@ Every problem includes:
 
 ## 🛠️ Tools & Language
 
-- Platform: [LeetCode](https://leetcode.com/)  [GeeksForGeeks](https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/))
+- Platform: [LeetCode](https://leetcode.com/)  [GeeksForGeeks](https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/)
 - Language: C++
 - Editor: VS Code
 
 ---
 
+📌 Notes
+This repo is for learning and revision. Contributions welcome!
+Feel free to fork or clone for your own DSA practice.
+
+---
+🔗 Connect with Me
+Linked-In: shruti-harayan
+LeetCode: shruti-harayan
+
+---
 ## 📅 Weekly Plan
 
 ```markdown
-Week 1: Arrays & Strings  
-Week 2: Hash Maps, Sets  
-Week 3: Sliding Window, Two Pointers  
+Week 1: Basics, Maths, Arrays
+Week 2: Searching and Sorting Algorithms 
+Week 3: Hash Maps, Strings
+Week 4: Sliding Window, Two Pointers  
 ...  
