@@ -42,13 +42,17 @@ Every problem includes:
 ---
 
 📌 Notes
-This repo is for learning and revision. Contributions welcome!
-Feel free to fork or clone for your own DSA practice.
+-This repo is for learning and revision. Contributions welcome!
+
+-Feel free to fork or clone for your own DSA practice.
 
 ---
+
 🔗 Connect with Me
-Linked-In: shruti-harayan
-LeetCode: shruti-harayan
+---
+-Linked-In: shruti-harayan
+
+-LeetCode: shruti-harayan
 
 ---
 ## 📅 Weekly Plan
