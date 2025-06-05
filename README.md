@@ -35,7 +35,7 @@ Every problem includes:
 
 ## 🛠️ Tools & Language
 
-- Platform: [LeetCode](https://leetcode.com/)  [GeeksForGeeks]([https://www.geeksforgeeks.org](https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/))
+- Platform: [LeetCode](https://leetcode.com/)  [GeeksForGeeks](https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/))
 - Language: C++
 - Editor: VS Code
 
